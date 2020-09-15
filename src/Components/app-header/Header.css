@@ -1,0 +1,38 @@
+.header {
+    position: relative;
+    padding: 25px 0;
+    background: aqua;
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+}
+
+.about-me {
+    position: absolute;
+    left: 60%;
+    width: 100px;
+    height: 50px;
+}
+
+.portfolio {
+    position: absolute;
+    left: 67%;
+    width: 100px;
+    height: 50px;
+}
+
+.contact {
+    position: absolute;
+    left: 74%;
+    width: 100px;
+    height: 50px;
+}
+
+.dropdown {
+    position: absolute;
+    left: 84%;
+    width: 100px;
+    height: 50px;
+}

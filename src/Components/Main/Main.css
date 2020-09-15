@@ -1,0 +1,38 @@
+.main {
+    background-color: #ffe4c4;
+}
+
+.main h1 {
+    color: #00ffff;
+    font-size: 140px;
+    position: relative;
+    left:5%;
+    top:100px;
+}
+
+.main p {
+    /*box-sizing: content-box;*/
+    width: 30%;
+    font-size: 34px;
+    position: relative;
+    left: 5%;
+    top: -350px;
+}
+
+.main button {
+    background-color: #00ffff;
+    width: 20%;
+    height: 100px;
+    border-radius: 45%;
+    position: relative;
+    left: 5%;
+    top: -150px;
+    font-size: 40px;
+}
+
+.main img {
+    width: 40%;
+    height: 40%;
+    position: relative;
+    left: 55%;
+}
