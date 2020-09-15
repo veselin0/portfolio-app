@@ -1,0 +1,13 @@
+.footer {
+    position: relative;
+    padding: 25px 0;
+    background: aqua;
+}
+
+.footer p {
+    width: 30%;
+    font-size: 34px;
+    position: relative;
+    left: 5%;
+    
+}

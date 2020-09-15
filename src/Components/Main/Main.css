@@ -1,5 +1,7 @@
 .main {
     background-color: #ffe4c4;
+    width: 100%;
+    height: 1000px;
 }
 
 .main h1 {
@@ -31,7 +33,7 @@
 }
 
 .main img {
-    width: 40%;
+    width: 30%;
     height: 40%;
     position: relative;
     left: 55%;

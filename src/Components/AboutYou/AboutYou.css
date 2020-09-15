@@ -1,0 +1,54 @@
+.about-you {
+    background-color: #ffe4c4;
+    width: 100%;
+    height: 1000px ;
+}
+
+.about-you h2 {
+    color: #00ffff;
+    font-size: 140px;
+    position: relative;
+    left:5%;
+    top:100px; 
+}
+
+#business {
+    width: 25%;
+    position: relative;
+    left: 5%;
+    top: 85px;
+} 
+#busi  {
+    font-size: 30px;
+    position: relative;
+    left: 10%;
+    top: 100px;
+} 
+
+#site {
+    width: 30%;
+    position: relative;
+    left: 34%;
+    top: -400px;
+}
+
+#sit {
+    font-size: 30px;
+    position: relative;
+    left: 40%;
+    top: -400px; 
+}
+
+#money {
+    width: 25%;
+    position: relative;
+    left: 68%;
+    top: -950px; 
+}
+
+#mon {
+    font-size: 30px;
+    position: relative;
+    left: 74%;
+    top: -945px;
+}

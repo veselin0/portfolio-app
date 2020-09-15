@@ -1,0 +1,28 @@
+.portfol {
+    width: 100%;
+    height: 1000px;
+}
+
+.portfol h2 {
+    color: #00ffff;
+    font-size: 140px;
+    position: relative;
+    left:55%;
+    top:200px;
+}
+
+.portfol img {
+    width: 30%;
+    height: 40%;
+    position: relative;
+    left: 5%;
+    
+}
+
+.portfol p {
+    width: 30%;
+    font-size: 34px;
+    position: relative;
+    left: 55%;
+    top: -250px;
+}
