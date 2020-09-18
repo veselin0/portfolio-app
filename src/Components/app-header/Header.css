@@ -1,4 +1,5 @@
 .header {
+    width: 100%;
     position: relative;
     padding: 25px 0;
     background: aqua;
@@ -9,30 +10,37 @@
     height: 50px;
 }
 
+.home {
+    position: absolute;
+    left: 50%;
+    width: 100px;
+    height: 50px;
+}
+
 .about-me {
     position: absolute;
-    left: 60%;
+    left: 57%;
+    width: 100px;
+    height: 50px;
+}
+
+.about-you {
+    position: absolute;
+    left: 64%;
     width: 100px;
     height: 50px;
 }
 
 .portfolio {
     position: absolute;
-    left: 67%;
+    left: 71%;
     width: 100px;
     height: 50px;
 }
 
 .contact {
     position: absolute;
-    left: 74%;
-    width: 100px;
-    height: 50px;
-}
-
-.dropdown {
-    position: absolute;
-    left: 84%;
+    left: 78%;
     width: 100px;
     height: 50px;
 }

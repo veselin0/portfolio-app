@@ -6,7 +6,7 @@ import money from "./money.png";
 
 const AboutYou = () => {
     return (
-        <div className="about-you">
+        <div className="aboutYou">
         <h2>About you</h2>
         <img id="business" alt="img" src={business}/>
         <p id="busi" >You own a busiuness</p>
